@@ -1,0 +1,69 @@
+
+Dimension:   1
+-------------------
+Feature Construction (FC) starts ...
+Total number of features in the space phi00:             15
+
+Generating phi01 ...
+mpirank =    0  #generated =             66  #selected =             81  progress =  20.0%
+mpirank =    1  #generated =             68  #selected =             83  progress =  20.0%
+mpirank =    1  #generated =             93  #selected =            108  progress =  40.0%
+mpirank =    0  #generated =            113  #selected =            128  progress =  40.0%
+mpirank =    0  #generated =            168  #selected =            183  progress =  60.0%
+mpirank =    1  #generated =            121  #selected =            136  progress =  60.0%
+mpirank =    1  #generated =            159  #selected =            174  progress =  80.0%
+mpirank =    0  #generated =            217  #selected =            231  progress =  80.0%
+mpirank =    1  #generated =            210  #selected =            217  progress = 100.0%
+mpirank =    0  #generated =            260  #selected =            273  progress = 100.0%
+Number of newly generated features:             470
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:             470
+Total number of features in the space phi01:            485
+
+Generating phi02 ...
+mpirank =    1  #generated =          21657  #selected =           1478  progress =  20.0%
+mpirank =    0  #generated =          26753  #selected =            964  progress =  20.0%
+mpirank =    1  #generated =          43104  #selected =            959  progress =  40.0%
+mpirank =    0  #generated =          48928  #selected =           1487  progress =  40.0%
+mpirank =    1  #generated =          65171  #selected =            981  progress =  60.0%
+mpirank =    0  #generated =          70152  #selected =            982  progress =  60.0%
+mpirank =    1  #generated =          85054  #selected =           1094  progress =  80.0%
+mpirank =    0  #generated =          92164  #selected =            895  progress =  80.0%
+mpirank =    1  #generated =         108171  #selected =           1317  progress = 100.0%
+mpirank =    0  #generated =         114468  #selected =            846  progress = 100.0%
+Number of newly generated features:          222639
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:          146120
+Total number of features in the space phi02:         146605
+
+Generating phi03 ...
+mpirank =    0  #generated =      412975214  #selected =           1425  progress =  20.0%
+mpirank =    1  #generated =      475521726  #selected =           1484  progress =  20.0%
+mpirank =    0  #generated =      817529597  #selected =            947  progress =  40.0%
+mpirank =    1  #generated =      911011739  #selected =            864  progress =  40.0%
+mpirank =    0  #generated =     1240655677  #selected =           1186  progress =  60.0%
+mpirank =    1  #generated =     1453838540  #selected =            851  progress =  60.0%
+mpirank =    0  #generated =     1670384637  #selected =           1165  progress =  80.0%
+mpirank =    0  #generated =     2073894802  #selected =           1323  progress = 100.0%
+mpirank =    1  #generated =     2065221089  #selected =           1123  progress =  80.0%
+mpirank =    1  #generated =     2905697708  #selected =           1247  progress = 100.0%
+Total number of newly generated features:      4979592510
+Total number of features in the space phi03:     4979739115
+
+Sure Independence Screening ...
+Size of the SIS-selected subspace from phi03:        800
+
+Descriptor Identification (DI) starts ...
+dimension =   1   mpirank =    0   progress =  20.0%
+dimension =   1   mpirank =    1   progress =  20.0%
+dimension =   1   mpirank =    0   progress =  40.0%
+dimension =   1   mpirank =    1   progress =  40.0%
+dimension =   1   mpirank =    0   progress =  60.0%
+dimension =   1   mpirank =    1   progress =  60.0%
+dimension =   1   mpirank =    0   progress =  80.0%
+dimension =   1   mpirank =    1   progress =  80.0%
+dimension =   1   mpirank =    0   progress = 100.0%
+dimension =   1   mpirank =    1   progress = 100.0%
+
+SISSO done successfully!
+
